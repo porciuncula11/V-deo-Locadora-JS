@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+
+*{
+  
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(237, 182, 253);
+}
+.cabeçalho{ 
+   display: flex;
+   justify-content: center;
+   font-size: 30px;
+   color: rgb(250, 45, 240);
+   font-family: 'Lobster', cursive;
+}
+
+.ilustração{
+    padding-left: 750px;
+    margin-top: 20px;
+    font-family: 'Crimson Text', serif;
+}
+
+hr {
+    width: 520px;
+    margin: 16px auto;
+}
